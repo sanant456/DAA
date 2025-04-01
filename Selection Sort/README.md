@@ -9,9 +9,9 @@ from the unsorted portion of the array and places it in its correct position in 
  
 	
   1.	Start from the first element and assume it is the minimum.
-	2.	Scan the rest of the array to find the smallest element.
-	3.	Swap the smallest element with the first element.
-	4.	Move to the next position and repeat until the entire array is sorted.
+  2.	Scan the rest of the array to find the smallest element.
+  3.	Swap the smallest element with the first element.
+  4.	Move to the next position and repeat until the entire array is sorted.
 
 
 
